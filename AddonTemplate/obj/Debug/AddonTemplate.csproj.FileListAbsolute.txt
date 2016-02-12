@@ -1,0 +1,13 @@
+C:\Users\charlie\Desktop\thingsa\EloBuddy-Addons-master\AddonTemplate\AddonTemplate\bin\Debug\AddonTemplate.exe.config
+C:\Users\charlie\Desktop\thingsa\EloBuddy-Addons-master\AddonTemplate\AddonTemplate\obj\Debug\AddonTemplate.csprojResolveAssemblyReference.cache
+C:\Users\charlie\Desktop\thingsa\EloBuddy-Addons-master\AddonTemplate\AddonTemplate\bin\Debug\AddonTemplate.exe
+C:\Users\charlie\Desktop\thingsa\EloBuddy-Addons-master\AddonTemplate\AddonTemplate\bin\Debug\AddonTemplate.pdb
+C:\Users\charlie\Desktop\thingsa\EloBuddy-Addons-master\AddonTemplate\AddonTemplate\bin\Debug\EloBuddy.dll
+C:\Users\charlie\Desktop\thingsa\EloBuddy-Addons-master\AddonTemplate\AddonTemplate\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\charlie\Desktop\thingsa\EloBuddy-Addons-master\AddonTemplate\AddonTemplate\bin\Debug\EloBuddy.SDK.dll
+C:\Users\charlie\Desktop\thingsa\EloBuddy-Addons-master\AddonTemplate\AddonTemplate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\charlie\Desktop\thingsa\EloBuddy-Addons-master\AddonTemplate\AddonTemplate\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\charlie\Desktop\thingsa\EloBuddy-Addons-master\AddonTemplate\AddonTemplate\bin\Debug\SharpDX.dll
+C:\Users\charlie\Desktop\thingsa\EloBuddy-Addons-master\AddonTemplate\AddonTemplate\bin\Debug\SharpDX.XInput.dll
+C:\Users\charlie\Desktop\thingsa\EloBuddy-Addons-master\AddonTemplate\AddonTemplate\obj\Debug\AddonTemplate.exe
+C:\Users\charlie\Desktop\thingsa\EloBuddy-Addons-master\AddonTemplate\AddonTemplate\obj\Debug\AddonTemplate.pdb

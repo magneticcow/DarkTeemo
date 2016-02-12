@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+	<Protection
+		InputFileName="C:\Users\blah\Desktop\EloBuddy-Bitbucket\Release\EloBuddy.Core.dll"
+		Options="5064"
+		CheckKernelModeDebugger="false"
+		CompressionMode="0"
+		VMCodeSectionName=".vmp"
+		VMExecutorCount="10"
+		LicenseDataFileName=""
+		OutputFileName=""
+		>
+		<Messages
+		/>
+		<Folders
+		/>
+		<Procedures>
+			<Procedure
+				MapAddress="EloBuddy::Native::Core::InitializeHooks(void)"
+				CompilationType="2"
+			/>
+			<Procedure
+				MapAddress="EloBuddy::Native::Core::Initialize(void)"
+				CompilationType="1"
+			/>
+			<Procedure
+				MapAddress="EloBuddy::Native::Core::IsLoLProcess(void)"
+				CompilationType="1"
+			/>
+		</Procedures>
+	</Protection>
+	<DLLBox
+	/>
+	<Script
+	/>
+	<LicenseManager
+		ProductCode=""
+		Algorithm=""
+		Bits="0"
+		PublicExp=""
+		PrivateExp=""
+		Modulus=""
+	/>
+</Document>
